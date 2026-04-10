@@ -82,14 +82,9 @@ At ZumerLab we believe the web deserves richer interaction models beyond flat re
 
 We welcome contributions, ideas, and feedback across all our projects.
 
-- 💬 [GitHub Discussions](https://github.com/orgs/zumerlab/discussions)
-- - 📣 [Telegram Community](https://t.me/nicezumerlab)
-  - - ❤️ [Sponsor us](https://github.com/sponsors/tinchox5)
-   
-    - ---
+❤️ [Sponsor us](https://github.com/sponsors/tinchox5)
 
-    <div align="center">
 
-    **MIT Licensed** · Made with ❤️ by the ZumerLab team
-
+ <div align="center">
+   **MIT Licensed** · Made with ❤️ by the ZumerLab team
     </div>
