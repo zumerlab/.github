@@ -85,6 +85,6 @@ We welcome contributions, ideas, and feedback across all our projects.
 ❤️ [Sponsor us](https://github.com/sponsors/tinchox5)
 
 
- <div align="center">
-   **MIT Licensed** · Made with ❤️ by the ZumerLab team
-    </div>
+**MIT Licensed** · Made with ❤️ by the ZumerLab team
+    
+
