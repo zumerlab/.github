@@ -11,13 +11,11 @@ We build open-source tools that push the boundaries of what's possible on the we
 
 </div>
 
----
 
 ## Philosophy
 
 At ZumerLab we believe the web deserves richer interaction models beyond flat rectangles and page swaps. Our tools are lightweight, dependency-free when possible, and designed to work with any framework or vanilla HTML. Everything is MIT-licensed.
 
----
 
 ## Get Involved
 
