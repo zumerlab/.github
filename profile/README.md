@@ -57,6 +57,12 @@ Zoom-based navigation for any site, with plain HTML. Pages become a space you mo
 
 [![GitHub stars](https://img.shields.io/github/stars/zumerlab/zumly?style=flat-square&logo=github&label=Stars&color=2d5bff)](https://github.com/zumerlab/zumly)
 
+### [Pulse](https://github.com/zumerlab/pulse)
+
+A radial interface for monitoring and controlling systems: one object per system, its readings and controls as layers, the urgent one in front. Built on Orbit and Zumly. Home Assistant is the first source, as a card, a dashboard or a standalone app: [pulse-home](https://github.com/zumerlab/pulse-home).
+
+[![GitHub stars](https://img.shields.io/github/stars/zumerlab/pulse?style=flat-square&logo=github&label=Stars&color=2d5bff)](https://github.com/zumerlab/pulse)
+
 ## How we work
 
 Small libraries, no runtime dependencies when we can help it, framework-agnostic, and shipped often: SnapDOM alone has had about one release a week for the past year. If something breaks, open an issue; if something is missing, a PR is welcome.
