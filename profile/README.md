@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://zumerlab.com/favicon.svg" alt="ZumerLab" width="88">
+
 <h1>ZumerLab</h1>
 
 <p><b>Embracing the unconventional.</b></p>
